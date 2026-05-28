@@ -50,7 +50,7 @@
                                             <li><a href="vedic-phase1.php">Vedic Village Phase 1   </a></li>
                                             <li><a href="vedic-phase2.php">Vedic Village Phase 2</a></li>
                                             <li><a href="smj-valley.php">S.M.J Villa</a></li> -->
-                                            <li><a href="skyomcity.php">New Green City – Lucknow’s Emerging Metro Township</a></li>
+                                            <li><a href="skyomcity.php">New Green City</a></li>
                                             <!-- <li><a href="gardenestate.php">The Garden Estate</a></li>
                                             <li><a href="destinycolony.php">Destiny Colony</a></li> -->
                                         </ul>

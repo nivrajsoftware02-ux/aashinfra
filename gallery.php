@@ -29,7 +29,7 @@
 
           <div class="service-block-three col-xl-4 col-lg-6 col-md-6 col-sm-12 wow fadeInUp animated animated" style="visibility: visible; animation-name: fadeInUp;">
             <div class="inner-box">
-              <figure class="image"><img src="siteadmin/images/gallery/image1.jpeg" alt=""></figure>
+              <figure class="image"><img src="siteadmin/images/gallery/image1 (8).jpeg" alt=""></figure>
               <div class="content-box">
                 <div class="title-box">
                   <h4 class="title"><a href="plots.php">Plot Images <i class=" far fa-arrow-right"></i></a></h4>
