@@ -40,7 +40,7 @@
                         <li>
                             <i class="icon lnr-icon-envelope1"></i>
                             <span class="title">Send Email</span>
-                            <div class="text"><a href="#"><span class="#" data-cfemail="#"><span class="__cf_email__" data-cfemail="85f6edf7ecf7e4e8e4ebf6edecebe3f7e4e6eaf7f5c5e2e8e4ece9abe6eae8">[email&#160;protected]</span></span></a></div>
+                            <li><i class="icon fa fa-envelope social-icon"></i><a href="mailto:assinfr@gmail.com">assinfr@gmail.com</a></li>
                         </li>
                         <li>
                             <i class="icon lnr-icon-map-marker"></i>
@@ -68,7 +68,7 @@
         <div class="carousel-inner">
 
             <!-- Slide 1 -->
-            <div class="carousel-item active" style="background-image: url(siteadmin/images/background/mainbg-01.png)">
+            <div class="carousel-item active" style="background-image: url(siteadmin/images/background/slide1.png)">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-md-6 carousel-text">
@@ -84,7 +84,7 @@
             </div>
 
             <!-- Slide 2 -->
-            <div class="carousel-item" style="background-image: url(siteadmin/images/background/mainbg-2.png)">
+            <div class="carousel-item" style="background-image: url(siteadmin/images/background/slide2.png)">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-md-6 carousel-text">
@@ -99,7 +99,7 @@
                 </div>
             </div>
             <!-- Slide 3 -->
-            <div class="carousel-item" style="background-image: url(siteadmin/images/background/mainbg-3.png)">
+            <div class="carousel-item" style="background-image: url(siteadmin/images/background/slide1.png)">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-md-6 carousel-text">
@@ -147,7 +147,7 @@
                     <div class="inner-column">
                         <div class="sec-title">
                             <span class="sub-title" style="font-size: 26px">About Us</span>
-                            <h4><span style="color: #fa7032">A </span>smarter way to manage <span class="gd-text">your money.</span></h4>
+                            <h4><span style="color: #000">A </span>smarter way to manage <span class="gd-text">your money.</span></h4>
                             <div class="text">
                                 <p class="main-cus">
                                     At Aash Infra, we believe that real estate is more than just buying and selling property — it’s about building trust, creating value, and fulfilling dreams. With a strong foundation in the real estate industry, we specialize in offering premium residential plots, homes, and investment properties in carefully selected and fast-developing locations. Our team is driven by integrity, customer satisfaction, and a commitment to delivering projects that meet the highest standards of quality and transparency. Whether you're a first-time homebuyer or a seasoned investor, Aash Infra is dedicated to guiding you at every step and helping you make the right choice for a better tomorrow.
@@ -157,7 +157,7 @@
 
 
                         <div class="btn-box">
-                            <a href="about.php" class="theme-btn btn-style-one " style="background-color: #f86532; color: #fff"><span class="btn-title">Read More <i class="fa fa-arrow-right"></i></span></a>
+                            <a href="about.php" class="theme-btn btn-style-one " style="background-color: #000; color: #fff"><span class="btn-title">Read More <i class="fa fa-arrow-right"></i></span></a>
                         </div>
                     </div>
                 </div>

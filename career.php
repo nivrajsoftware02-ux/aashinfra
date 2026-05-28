@@ -12,10 +12,10 @@
    <?php include 'header.php'; ?> 
    <!-- content sections start -->
             
-     <section class="page-title" style="background-image: url(siteadmin/images/background/career-bg.png);">
+     <section class="page-title" style="background-image: url(siteadmin/images/background/career.png);">
     		<div class="auto-container">
     			<div class="title-outer d-sm-flex align-items-center justify-content-sm-between">
-    				<h1 class="title">Career</h1>
+    				<h1 class="title">Build Your Career With Us</h1>
     			
     			</div>
     		</div>

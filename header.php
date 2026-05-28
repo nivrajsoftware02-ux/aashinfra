@@ -108,7 +108,7 @@
                             <li>
                                 <i class="icon lnr-icon-envelope1"></i>
                                 <span class="title">Send Email</span>
-                                <div class="text"><a href="#"><span class="__cf_email__" data-cfemail="a4d7ccd6cdd6c5c9c5cad7cccdcac2d6c5c7cbd6d4e4c3c9c5cdc88ac7cbc9">[email&#160;protected]</span></a></div>
+                                <li><i class="icon fa fa-envelope social-icon"></i><a href="mailto:assinfr@gmail.com">assinfr@gmail.com</a></li>
                             </li>
                             <li>
                                 <i class="icon lnr-icon-map-marker"></i>

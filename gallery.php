@@ -12,7 +12,7 @@
    <?php include 'header.php'; ?> 
    <!-- content sections start -->
             
-    <section class="page-title" style="background-image: url(siteadmin/images/gallery/gallerybg.png);">
+    <section class="page-title" style="background-image: url(siteadmin/images/background/blog.png);">
         <div class="auto-container">
             <div class="title-outer d-sm-flex align-items-center justify-content-sm-between">
                 <h1 class="title text-light">Gallery</h1>
