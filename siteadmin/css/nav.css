@@ -1,0 +1,156 @@
+
+
+.main-box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 50px;
+    width: 100%;
+}
+
+.main-menu .navigation li a br{
+    display: none;
+}
+
+
+.logo-box{
+    flex: 0 0 auto;
+}
+
+.logo img{
+    width: 170px;
+    height: auto;
+    display: block;
+}
+
+
+.nav-outer{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+
+.main-menu .navigation{
+   display: flex;
+    align-items: center;
+    gap: 18px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    flex-wrap: nowrap;
+}
+
+.main-menu .navigation li{
+    position: relative;
+    white-space: nowrap;
+
+}
+
+.main-menu .navigation li a{
+    text-decoration: none;
+    color: #000;
+    font-size: 15px;
+    font-weight: 500;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    line-height: 1;
+
+}
+
+.main-menu .navigation li a:hover{
+    color: #000;
+}
+
+
+.main-menu .navigation li ul{
+    position: absolute;
+    top: 120%;
+    left: 0;
+    min-width: 240px;
+    background: #fff;
+    padding: 10px 0;
+    opacity: 0;
+    visibility: hidden;
+    transition: 0.3s;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+    z-index: 999;
+}
+
+.main-menu .navigation li:hover ul{
+    opacity: 1;
+    visibility: visible;
+    top: 100%;
+}
+
+.main-menu .navigation li ul li{
+    display: block;
+}
+
+.main-menu .navigation li ul li a{
+    display: block;
+    padding: 10px 20px;
+    font-size: 14px;
+    text-transform: capitalize;
+}
+
+
+.outer-box{
+    display: flex;
+    align-items: center;
+}
+
+.ui-btn{
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    border: 1px solid #999;
+    background: transparent;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 6px;
+    cursor: pointer;
+}
+
+.ui-btn .line{
+    width: 20px;
+    height: 2px;
+    background: #000 !important;
+    display: block;
+}
+
+
+.mobile-nav-toggler{
+    display: none;
+}
+
+
+
+@media (max-width: 991px){
+
+    .main-box{
+        padding: 15px 20px;
+    }
+
+    .main-menu{
+        display: none;
+    }
+
+    .outer-box{
+        display: none;
+    }
+
+    .mobile-nav-toggler{
+        display: block;
+        font-size: 30px;
+        cursor: pointer;
+    }
+
+    .logo img{
+        width: 320px;
+    }
+}

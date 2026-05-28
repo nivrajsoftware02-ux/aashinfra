@@ -1,0 +1,28 @@
+﻿
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <?php include 'headerlink.php'; ?>
+</head>
+<body>
+   <?php include 'header.php'; ?> 
+   <!-- content sections start -->
+            
+     <section class="page-title" style="background-image: url(siteadmin/images/background/page-title-bg.png);">
+    		<div class="auto-container">
+    			<div class="title-outer d-sm-flex align-items-center justify-content-sm-between">
+    				<h1 class="title">Project</h1>
+    				
+    			</div>
+    		</div>
+    	</section>
+
+    <!-- content section end -->
+   <?php include 'footer.php'; ?>
+   <?php include 'footerlink.php';?>
+</body>
+</html>
