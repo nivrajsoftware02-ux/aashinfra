@@ -47,8 +47,10 @@
                       
                             <div class="text">
                                 <p class="main-cus">
-                                   AtAash Infra, our mission is to provide reliable, affordable, and legally secure real estate solutions that empower individuals and families to invest with confidence. We are dedicated to delivering high-quality plots and properties in prime locations, backed by transparency, integrity, and a customer-first approach.
-                                <br>We aim to make property ownership simple, stress-free, and rewarding — building not just land and infrastructure, but trust and lasting relationships.
+                                   At Aash Infra, our mission is to provide trustworthy, affordable, and legally secure real estate solutions that help individuals and families invest with complete confidence.
+We are committed to delivering premium plots, modern homes, and valuable properties in prime locations with a strong focus on quality, transparency, and customer satisfaction.
+                                <br>Our goal is to make property ownership simple, seamless, and rewarding for every client.
+Through honest guidance, reliable services, and long-term relationships, we aim to build not only exceptional developments but also lasting trust and a brighter future for our customers.
                                 </p>
                             </div>
                         </div>
@@ -75,8 +77,10 @@
                       
                             <div class="text">
                                 <p class="main-cus">
-                                  AtAash Infra, our vision is to become a leading force in the real estate industry by setting new benchmarks in trust, transparency, and customer satisfaction. We strive to shape better communities by offering quality properties that provide long-term value and peace of mind.
-                                <br>We envision a future where every individual can confidently own property that not only fulfills their dreams but also becomes a smart investment for generations to come.
+                                 At Aash Infra, our vision is to redefine the real estate experience through trust, innovation, and excellence.
+We aim to create modern communities and premium developments that offer lasting value, comfort, and a better quality of life for every customer.
+                                <br>Our goal is to become a trusted name in the real estate industry by delivering transparent services, quality projects, and customer-focused solutions.
+We believe every individual deserves a property that not only fulfills their dreams today but also becomes a secure and valuable investment for the future generations.
                                 </p>
                             </div>
                         </div>

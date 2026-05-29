@@ -1,66 +1,66 @@
-﻿
-
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <?php include 'headerlink.php'; ?>
 </head>
+
 <body>
-   <?php include 'header.php'; ?> 
-   <!-- content sections start -->
-            <!-- Hidden bar back drop -->
-            <div class="hidden-bar-back-drop"></div>
-            <!-- Hidden Bar -->
-            <section class="hidden-bar">
-                <div class="inner-box">
-                    <div class="upper-box">
-                        <div class="nav-logo">
-                            <a href="index.php">
-                                <img src="siteadmin/images/gallery/Adobe Express - file.png" alt="" title=""></a>
-                        </div>
-                        <div class="close-btn"><i class="icon fa fa-times"></i></div>
-                    </div>
-                    <div class="text-box">
-                        <p class="title" style="font-size: 15px;">Welcome At Aash Infra</p>
-                        <div class="text">
-                            <p class="main-cus text-light">
-                                Aash Infra is a trusted name in real estate, offering premium residential plots, homes, and investment opportunities in prime locations. With a strong focus on transparency, quality, and customer satisfaction, we are dedicated to turning your property dreams into reality.
-                            </p>
-                        </div>
-                    </div>
-                    <ul class="contact-list-one">
-                        <li>
-                            <i class="icon lnr-icon-phone-handset"></i>
-                            <span class="title">Call Now</span>
-                            <div class="text"><a href="tel:+919336805413">9336805413
-                        </li>
-                        <li>
-                            <i class="icon lnr-icon-envelope1"></i>
-                            <span class="title">Send Email</span>
-                            <li><i class="icon fa fa-envelope social-icon"></i><a href="mailto:assinfr@gmail.com">assinfr@gmail.com</a></li>
-                        </li>
-                        <li>
-                            <i class="icon lnr-icon-map-marker"></i>
-                            <span class="title">Address</span>
-                            <div class="text ">
-                                <p class="text-light">3/491 vikalp khand Near Rail vihar tiraha Gomti Nagar Lucknow
-                            </div>
-                        </li>
-                    </ul>
-                    <ul class="social-links">
-                        <li><a href="https://www.facebook.com/profile.php?id=61557700559554"><i class="fab fa-facebook-f"></i></a></li>
-                        <li><a href="https://x.com/RamanshShr57008"><i class="fa fa-x"></i></a></li>
-                        <li><a href="https://youtube.com/@shriramansh?si=NSKieSs5SLmHEwax"><i class="fab fa-youtube"></i></a></li>
-                        <li><a href="https://www.instagram.com/shriramanshgroup_/"><i class="fab fa-instagram"></i></a></li>
-                        <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
-                    </ul>
+    <?php include 'header.php'; ?>
+    <!-- content sections start -->
+    <!-- Hidden bar back drop -->
+    <div class="hidden-bar-back-drop"></div>
+    <!-- Hidden Bar -->
+    <section class="hidden-bar">
+        <div class="inner-box">
+            <div class="upper-box">
+                <div class="nav-logo">
+                    <a href="index.php">
+                        <img src="siteadmin/images/gallery/Adobe Express - file.png" alt="" title=""></a>
                 </div>
-            </section>
-            <!--End Hidden Bar -->
-            
+                <div class="close-btn"><i class="icon fa fa-times"></i></div>
+            </div>
+            <div class="text-box">
+                <p class="title" style="font-size: 15px;">Welcome At Aash Infra</p>
+                <div class="text">
+                    <p class="main-cus text-light">
+                        Aash Infra is a trusted name in real estate, offering premium residential plots, homes, and investment opportunities in prime locations. With a strong focus on transparency, quality, and customer satisfaction, we are dedicated to turning your property dreams into reality.
+                    </p>
+                </div>
+            </div>
+            <ul class="contact-list-one">
+                <li>
+                    <i class="icon lnr-icon-phone-handset"></i>
+                    <span class="title">Call Now</span>
+                    <div class="text"><a href="tel:+919336805413">9336805413
+                </li>
+                <li>
+                    <i class="icon lnr-icon-envelope1"></i>
+                    <span class="title">Send Email</span>
+                <li><i class="icon fa fa-envelope social-icon"></i><a href="mailto:assinfr@gmail.com">assinfr@gmail.com</a></li>
+                </li>
+                <li>
+                    <i class="icon lnr-icon-map-marker"></i>
+                    <span class="title">Address</span>
+                    <div class="text ">
+                        <p class="text-light">3/491 vikalp khand Near Rail vihar tiraha Gomti Nagar Lucknow
+                    </div>
+                </li>
+            </ul>
+            <ul class="social-links">
+                <li><a href="https://www.facebook.com/profile.php?id=61557700559554"><i class="fab fa-facebook-f"></i></a></li>
+                <li><a href="https://x.com/RamanshShr57008"><i class="fa fa-x"></i></a></li>
+                <li><a href="https://youtube.com/@shriramansh?si=NSKieSs5SLmHEwax"><i class="fab fa-youtube"></i></a></li>
+                <li><a href="https://www.instagram.com/shriramanshgroup_/"><i class="fab fa-instagram"></i></a></li>
+                <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
+            </ul>
+        </div>
+    </section>
+    <!--End Hidden Bar -->
+
 
 
 
@@ -73,7 +73,9 @@
                     <div class="row align-items-center">
                         <div class="col-md-6 carousel-text">
                             <h2 class="main-heading text-white">Welcome to <span class="gd-text">Aash Infra</span></h2>
-                            <p class="kss" style="text-align: justify; color: #fff">We are committed to building your dreams with unwavering trust and transparency. Our focus on superior quality ensures every project stands the test of time</p>
+                            <p class="kss" style="text-align: justify; color: #fff">At Aash Infra, we are dedicated to turning your dreams into reality with complete trust and transparency.
+                                Our commitment to superior quality and thoughtful planning ensures every project is built to last.
+                                We create modern spaces that offer comfort, value, and a better future for you and your family.</p>
                             <a href="contact.php" class="btn ks">Contact Us</a>
                         </div>
                         <div class="col-md-6 carousel-image">
@@ -90,7 +92,7 @@
                         <div class="col-md-6 carousel-text">
                             <h2 class="main-heading text-white">Affordable <span class="gd-text">Plots & Homes </span></h2>
                             <p class="kss" style="text-align: justify; color: #fff">At Aash Infra, we offer a diverse selection of premium residential options that perfectly balance comfort, elegance, and functionality. Whether you're looking for plots, apartments, or villas, our projects are thoughtfully designed to meet modern lifestyle needs. </p>
-                           <a href="contact.php" class="btn ks">Contact Us</a>
+                            <a href="contact.php" class="btn ks">Contact Us</a>
                         </div>
                         <div class="col-md-6 carousel-image">
                             <img src="siteadmin/images/banner/ban2.png" class="img-fluid" alt="Slide 2" style="opacity: 0;">
@@ -104,7 +106,9 @@
                     <div class="row align-items-center">
                         <div class="col-md-6 carousel-text">
                             <h2 class="main-heading text-white">Invest in Your <span class="gd-text">Future Today </span></h2>
-                            <p class="kss" style="text-align: justify; color: #fff; margin:10px;" >Here’s the line "Secure prime locations with high growth potential" rewritten as a 3-line paragraph:Aash Infra brings you properties in prime locations that offer excellent connectivity and convenience.</p>
+                            <p class="kss" style="text-align: justify; color: #fff; margin:10px;">Aash Infra offers premium properties in prime locations with excellent connectivity and modern infrastructure.
+                                Discover high-growth investment opportunities designed for a secure and prosperous future.
+                                Own your dream property with trust, value, and long-term benefits.</p>
                             <a href="contact.php" class="btn ks">Contact Us</a>
                         </div>
                         <div class="col-md-6 carousel-image">
@@ -128,13 +132,13 @@
 
 
 
-    
 
 
-    
+
+
 
     <!-- Carousel -->
-    
+
 
     <!--End Banner Section -->
 
@@ -147,10 +151,14 @@
                     <div class="inner-column">
                         <div class="sec-title">
                             <span class="sub-title" style="font-size: 26px">About Us</span>
-                            <h4><span style="color: #000">A </span>smarter way to manage <span class="gd-text">your money.</span></h4>
+                            <h4><span style="color: #000">A </span>Building Dreams with <span class="gd-text">Trust & Excellence.</span></h4>
                             <div class="text">
                                 <p class="main-cus">
-                                    At Aash Infra, we believe that real estate is more than just buying and selling property — it’s about building trust, creating value, and fulfilling dreams. With a strong foundation in the real estate industry, we specialize in offering premium residential plots, homes, and investment properties in carefully selected and fast-developing locations. Our team is driven by integrity, customer satisfaction, and a commitment to delivering projects that meet the highest standards of quality and transparency. Whether you're a first-time homebuyer or a seasoned investor, Aash Infra is dedicated to guiding you at every step and helping you make the right choice for a better tomorrow.
+                                    At Aash Infra, we believe real estate is not just about properties — it’s about creating opportunities, building trust, and securing a better future.
+                                    We specialize in premium residential plots, modern homes, and high-potential investment properties located in rapidly developing areas with excellent connectivity and growth prospects.
+
+                                    Driven by transparency, quality, and customer satisfaction, our team is committed to delivering projects that combine comfort, value, and long-term reliability.
+                                    Whether you are purchasing your first property or expanding your investment portfolio, Aash Infra stands beside you with expert guidance, trusted support, and a vision for a brighter tomorrow.
                                 </p>
                             </div>
                         </div>
@@ -169,9 +177,11 @@
                         <div class="icon icon-line"></div>
                         <div class="image-box">
                             <figure class="image overlay-anim">
-                                <img src="siteadmin/images/resource/about10-1.jpg" alt="Image"></figure>
+                                <img src="siteadmin/images/resource/about10-1.jpg" alt="Image">
+                            </figure>
                             <figure class="image-2 overlay-anim">
-                                <img src="siteadmin/images/resource/about10-2.jpg" alt="Image"></figure>
+                                <img src="siteadmin/images/resource/about10-2.jpg" alt="Image">
+                            </figure>
 
                         </div>
                         <div class="experience-box">
@@ -267,7 +277,8 @@
                         <div class="inner-box">
                             <div class="image-box">
                                 <figure class="image">
-                                    <img src="siteadmin/images/gallery/image1.jpeg" alt="Image"></figure>
+                                    <img src="siteadmin/images/gallery/image1.jpeg" alt="Image">
+                                </figure>
                                 <div class="info-box">
                                     <h4 class="title">New Green City – Lucknow’s Emerging Metro Township</h4>
                                     <div class="cat">Lucknow</div>
@@ -291,7 +302,7 @@
                     </div> -->
                     <!-- project-block -->
                     <!-- project-block -->
-                    
+
                     <!-- project-block -->
 
                 </div>
@@ -353,8 +364,8 @@
                         </div>
                     </a> -->
 
-                    <!-- project-block -->
-                    <!-- <a href="villas.php" target="_blank">
+    <!-- project-block -->
+    <!-- <a href="villas.php" target="_blank">
                         <div class="project-block-two wow fadeInLeft" data-wow-delay="300ms">
                             <div class="inner-box">
                                 <div class="image-box">
@@ -370,8 +381,8 @@
                         </div>
                     </a> -->
 
-                    <!-- project-block -->
-                    <!-- <a href="professional.php" target="_blank">
+    <!-- project-block -->
+    <!-- <a href="professional.php" target="_blank">
                         <div class="project-block-two wow fadeInLeft" data-wow-delay="300ms">
                             <div class="inner-box">
                                 <div class="image-box">
@@ -384,8 +395,8 @@
                             </div>
                         </div>
                     </a> -->
-                    <!-- project-block -->
-                    <!-- <a href="office.php" target="_blank">
+    <!-- project-block -->
+    <!-- <a href="office.php" target="_blank">
                         <div class="project-block-two wow fadeInLeft" data-wow-delay="600ms">
                             <div class="inner-box">
                                 <div class="image-box">
@@ -399,10 +410,10 @@
                             </div>
                         </div>
                     </a> -->
-                    <!-- project-block -->
+    <!-- project-block -->
 
-                    <!-- project-block -->
-                    <!-- <a href="function.php" target="_blank">
+    <!-- project-block -->
+    <!-- <a href="function.php" target="_blank">
                         <div class="project-block-two wow fadeInLeft" data-wow-delay="900ms">
                             <div class="inner-box">
                                 <div class="image-box">
@@ -416,9 +427,9 @@
                             </div>
                         </div>
                     </a> -->
-                    <!-- project-block -->
-                    <!-- project-block -->
-                    <!-- <a href="projects.php" target="_blank">
+    <!-- project-block -->
+    <!-- project-block -->
+    <!-- <a href="projects.php" target="_blank">
                         <div class="project-block-two wow fadeInLeft" data-wow-delay="900ms">
                             <div class="inner-box">
                                 <div class="image-box">
@@ -432,12 +443,12 @@
                             </div>
                         </div>
                     </a> -->
-                    <!-- project-block -->
-                    <!-- project-block -->
-                    
-                    <!-- project-block -->
+    <!-- project-block -->
+    <!-- project-block -->
 
-                <!-- </div>
+    <!-- project-block -->
+
+    <!-- </div>
             </div>
 
 
@@ -462,8 +473,8 @@
             </div>
 
             <div class="row"> -->
-                <!-- Team block -->
-                <!-- <div class="team-block-seven col-lg-4 col-md-6 col-sm-12 wow fadeInUp">
+    <!-- Team block -->
+    <!-- <div class="team-block-seven col-lg-4 col-md-6 col-sm-12 wow fadeInUp">
                     <div class="inner-box">
                         <div class="image-box">
                             <figure class="image"><a href="team.php">
@@ -482,8 +493,8 @@
                     </div>
                 </div> -->
 
-                <!-- Team block -->
-                <!-- <div class="team-block-seven col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="400ms">
+    <!-- Team block -->
+    <!-- <div class="team-block-seven col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="400ms">
                     <div class="inner-box">
                         <div class="image-box">
                             <figure class="image"><a href="team.php">
@@ -502,8 +513,8 @@
                     </div>
                 </div> -->
 
-                <!-- Team block -->
-                <!-- <div class="team-block-seven col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="800ms">
+    <!-- Team block -->
+    <!-- <div class="team-block-seven col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="800ms">
                     <div class="inner-box">
                         <div class="image-box">
                             <figure class="image"><a href="team.php">
@@ -647,7 +658,7 @@
                         <div class="inner-box">
                             <figure class="thumb">
                                 <!-- <img src="siteadmin/images/resource/team3.png" alt="">-->
-                                </figure> 
+                            </figure>
                             <h6 class="name text-dark"><span class="gd-text">Mahesh Kumar</span></h6>
                             <!--<span class="designation">President of Sales</span>-->
                             <div class="text-dark">
@@ -670,7 +681,7 @@
                         <div class="inner-box">
                             <figure class="thumb">
                                 <!-- <img src="siteadmin/images/resource/team4.png" alt=""> -->
-                            
+
                             </figure>
                             <h6 class="name text-dark"><span class="gd-text">Aman Tripathi</span></h6>
                             <!--<span class="designation">President of Sales</span>-->
@@ -694,7 +705,7 @@
                         <div class="inner-box">
                             <figure class="thumb">
                                 <!-- <img src="siteadmin/images/resource/team5.png" alt=""> -->
-                            
+
                             </figure>
                             <h6 class="name text-dark"><span class="gd-text">Om Prakash Yadav</span></h6>
                             <!--<span class="designation">President of Sales</span>-->
@@ -718,7 +729,7 @@
                         <div class="inner-box">
                             <figure class="thumb">
                                 <!-- <img src="siteadmin/images/resource/team6.png" alt=""> -->
-                            
+
                             </figure>
                             <h6 class="name text-dark"><span class="gd-text">Umakant Dubey</span></h6>
                             <!--<span class="designation">President of Sales</span>-->
@@ -742,7 +753,7 @@
                         <div class="inner-box">
                             <figure class="thumb">
                                 <!-- <img src="siteadmin/images/resource/team7.png" alt=""> -->
-                            
+
                             </figure>
                             <h6 class="name text-dark"><span class="gd-text">Shaivya Tiwari</span></h6>
                             <!--<span class="designation">President of Sales</span>-->
@@ -766,7 +777,7 @@
                         <div class="inner-box">
                             <figure class="thumb">
                                 <!-- <img src="siteadmin/images/resource/team8.png" alt=""> -->
-                            
+
                             </figure>
                             <h6 class="name text-dark"><span class="gd-text">Ratiram</span></h6>
                             <!--<span class="designation">President of Sales</span>-->
@@ -790,7 +801,7 @@
                         <div class="inner-box">
                             <figure class="thumb">
                                 <!-- <img src="siteadmin/images/resource/team9.png" alt=""> -->
-                            
+
                             </figure>
                             <h6 class="name text-dark"><span class="gd-text">Saurabh Singh</span></h6>
                             <!--<span class="designation">President of Sales</span>-->
@@ -814,7 +825,7 @@
                         <div class="inner-box">
                             <figure class="thumb">
                                 <!-- <img src="siteadmin/images/resource/team10.png" alt=""> -->
-                            
+
                             </figure>
                             <h6 class="name text-dark"><span class="gd-text">Shashwat Yadav</span></h6>
                             <!--<span class="designation">President of Sales</span>-->
@@ -838,7 +849,7 @@
                         <div class="inner-box">
                             <figure class="thumb">
                                 <!-- <img src="siteadmin/images/resource/team11.png" alt=""> -->
-                            
+
                             </figure>
                             <h6 class="name text-dark"><span class="gd-text">Shiv Kumar Gautam</span></h6>
                             <!--<span class="designation">President of Sales</span>-->
@@ -862,7 +873,7 @@
                         <div class="inner-box">
                             <figure class="thumb">
                                 <!-- <img src="siteadmin/images/resource/team12.png" alt=""> -->
-                            
+
                             </figure>
                             <h6 class="name text-dark"><span class="gd-text">C K PATEL</span></h6>
                             <!--<span class="designation">President of Sales</span>-->
@@ -967,7 +978,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <figure class="image"><a href="blogs.php">
-                                <img src="siteadmin/images/resource/blogs/01.png" alt="Image"></a></figure>
+                                    <img src="siteadmin/images/resource/blogs/01.png" alt="Image"></a></figure>
                         </div>
                         <div class="content-box">
                             <!--<div class="post-box">
@@ -995,7 +1006,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <figure class="image"><a href="blogs.php">
-                                <img src="siteadmin/images/resource/blogs/02.png" alt="Image"></a></figure>
+                                    <img src="siteadmin/images/resource/blogs/02.png" alt="Image"></a></figure>
                         </div>
                         <div class="content-box">
                             <!--<div class="post-box">
@@ -1023,7 +1034,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <figure class="image"><a href="blogs.php">
-                                <img src="siteadmin/images/resource/blogs/03.png" alt="Image"></a></figure>
+                                    <img src="siteadmin/images/resource/blogs/03.png" alt="Image"></a></figure>
                         </div>
                         <div class="content-box">
                             <!--<div class="post-box">
@@ -1058,11 +1069,12 @@
     <!-- galler-carowsels-second section -->
 
 
-    
+
 
 
     <!-- galler-carowsels-second-section -->
-    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script>
         $('#myModal').modal({
             backdrop: 'static',
             keyboard: false
@@ -1070,9 +1082,10 @@
     </script>
 
 
-             
-             <!-- content section end -->
-   <?php include 'footer.php'; ?>
-   <?php include 'footerlink.php';?>
+
+    <!-- content section end -->
+    <?php include 'footer.php'; ?>
+    <?php include 'footerlink.php'; ?>
 </body>
+
 </html>

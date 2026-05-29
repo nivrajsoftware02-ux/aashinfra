@@ -45,9 +45,9 @@
 
                             <div class="text">
                                 <p class="main-cus">
-                                    At Aash Infra, our vision has always been to build more than just properties — we aim to build trust, relationships, and communities. With every project we undertake, our focus remains on delivering quality, transparency, and long-term value for our clients.
-                                    <br>We understand that investing in real estate is one of the most important decisions in a person’s life. That’s why our team is committed to guiding you with honesty, personalized service, and clear processes. Whether you’re a first-time buyer, a growing family, or an investor, we promise a seamless experience and properties that truly feel like home.<br>
-                                    Thank you for placing your trust in Aash Infra. We look forward to being a part of your journey toward a secure and prosperous future.
+                                    At Aash Infra, our mission goes beyond developing properties — we strive to build trust, lasting relationships, and thriving communities. Every project we deliver is designed with a commitment to quality, transparency, and long-term value, ensuring complete satisfaction for our clients.
+                                    <br>We understand that real estate is one of the most important investments in life. That is why our dedicated team works closely with every customer, offering honest guidance, personalized support, and a smooth buying experience at every step. Whether you are a first-time homebuyer, a family searching for the perfect home, or an investor looking for future growth, Aash Infra is here to help you make confident decisions.<br>
+                                    Thank you for choosing Aash Infra as your trusted real estate partner. We look forward to being a part of your journey toward a secure, successful, and prosperous future.
                                 </p>
                             </div>
                         </div>
